@@ -358,6 +358,7 @@ img {
 
 .case-list {
   display: flex;
+  justify-content: space-between;
   flex-wrap: wrap;
   margin-top: 72px;
   column-gap: 24px;
@@ -444,7 +445,6 @@ img {
 
 .footer-container {
   display: flex;
-  gap: 120px;
   align-items: baseline;
 }
 .page-info {
@@ -453,6 +453,7 @@ img {
 }
 .social-media {
   display: block;
+  margin-right: 80px;
 }
 .social-media-title {
   color: #ffffff;
